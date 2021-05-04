@@ -1,2 +1,2 @@
 # getSteamDiscount
-爬取steam优惠折扣信息
+A python script for getting steam discount infomation.
