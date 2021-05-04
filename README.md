@@ -1,0 +1,2 @@
+# getSteamDiscount
+getSteamDiscount
